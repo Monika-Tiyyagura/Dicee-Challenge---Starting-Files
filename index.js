@@ -13,13 +13,13 @@ var image2 = document.querySelectorAll("img")[1];
 image2.setAttribute("src", randomImageSrc2);
 
 if(randomNumber1 > randomNumber2) {
-    document.querySelector("h1").innerHTML = "Dimpu won...hhehehee";
+    document.querySelector("h1").innerHTML = " 🚩🚩Player 1 won!! 🚩🚩";
 } 
 else if(randomNumber1 < randomNumber2) {
-    document.querySelector("h1").innerHTML = "Babbu won....by fluke";
+    document.querySelector("h1").innerHTML = "🚩🚩Player 2 won 🚩🚩!!";
 }
 else {
-    document.querySelector("h1").innerHTML = "draw(dimpu won by 0.1%)";
+    document.querySelector("h1").innerHTML = " Draw 😒😒";
 }
 
 }
