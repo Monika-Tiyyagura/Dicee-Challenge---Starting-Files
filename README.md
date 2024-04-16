@@ -2,6 +2,8 @@
 
 Welcome to our two-player dice game! This simple game allows two players to take turns rolling dice to determine who goes first for any task or activity.
 
+## Here is the link to try the rolling dice: https://monika-tiyyagura.github.io/Dimpu-s-Dice/
+
 ## How to Play
 
 1. **Setup**: Gather two players and ensure each player has access to a device with a web browser.
