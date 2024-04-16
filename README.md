@@ -24,7 +24,7 @@ Welcome to our two-player dice game! This simple game allows two players to take
 
 ## Installation
 
-1. Clone the repository to your local machine: `git clone https://github.com/your/repository.git`
+1. Clone the repository to your local machine: `git clone https://github.com/Monika-Tiyyagura/Dimpu-s-Dice.git`
 2. Open the `index.html` file in a web browser.
 
 ## Contributions
