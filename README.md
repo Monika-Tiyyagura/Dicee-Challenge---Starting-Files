@@ -35,4 +35,4 @@ We welcome contributions to improve the game! If you have any ideas for new feat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)..
